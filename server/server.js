@@ -8,8 +8,8 @@ import dotenv from "dotenv";
 import bcrypt from "bcryptjs";
 
 dotenv.config();
-const MONGODB_URI =
-  "mongodb+srv://root:root@maincluster.byukcdl.mongodb.net/vishad-auth";
+const MONGODB_URI = "mongodb+srv://root:root@maincluster.erozsw0.mongodb.net/ngs"
+  // "mongodb+srv://root:root@maincluster.byukcdl.mongodb.net/vishad-auth";
 const SECRET_KEY = "asdiojawidnasidnwqiod";
 
 const app = express();
